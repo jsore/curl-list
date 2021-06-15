@@ -1,3 +1,4 @@
+hxxp://broken-url-after-master-merge
 hxxp://broken-url/.com
 http://test-url-with-test-branch.com/
 http://testurl.com/
